@@ -1,2 +1,1 @@
-# acervo
-Acervo do Desenvolvimento Livre.
+# Acervo do Desenvolvimento Livre.
