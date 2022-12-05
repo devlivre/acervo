@@ -21,8 +21,8 @@ Ferramenta que exibe os pacotes e suas dependências em forma de árvore.
 Ferramenta que remove pacotes e suas dependências não utilizadas.
 - [Pip-autoremove](https://github.com/invl/pip-autoremove)
 
-## Gerenciador de projetos
-Ferramenta que facilita o gerenciamento de projetos, gerenciando dependências, ambientes virtuais e empacotamentos.
+## Gerenciador de dependências
+Ferramenta que facilita o gerenciamento de dependências, ambientes virtuais e empacotamentos.
 - [Poetry](https://github.com/python-poetry/poetry)
 
 ## Formatador de códigos
